@@ -1,0 +1,36 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{6712CF3F-A3AC-4582-9A3F-9F014995DCEB}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="AnReDo.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="AnReDo">
+			<MSBuild Projects="AnReDo.dproj"/>
+		</Target>
+		<Target Name="AnReDo:Clean">
+			<MSBuild Targets="Clean" Projects="AnReDo.dproj"/>
+		</Target>
+		<Target Name="AnReDo:Make">
+			<MSBuild Targets="Make" Projects="AnReDo.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="AnReDo"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="AnReDo:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="AnReDo:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

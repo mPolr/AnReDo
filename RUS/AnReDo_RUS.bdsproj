@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{D84CB74E-2E22-4C3F-BA89-552FD6365EA2}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">AnReDo.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">1033</Options>
+      <Options Name="TargetName">..\AnReDo.RUS</Options>
+      <Options Name="Company"></Options>
+      <Options Name="Configuration"></Options>
+      <Options Name="Copyright"></Options>
+      <Options Name="Description"></Options>
+      <Options Name="Trademark"></Options>
+      <Options Name="Product"></Options>
+      <Options Name="ProductVersion"></Options>
+      <Options Name="Title"></Options>
+      <Options Name="FileVersion"></Options>
+      <Options Name="Evidence"></Options>
+      <Options Name="KeyFile"></Options>
+      <Options Name="KeyName"></Options>
+    </Options>
+    <FileList>
+      <File FileName="ufrmAbout.dfm" ContainerId="W32Form" ModuleName="ufrmAbout.dfm"/>
+      <File FileName="ufrmMain.dfm" ContainerId="W32Form" ModuleName="ufrmMain.dfm"/>
+      <File FileName="ufrmRepo.dfm" ContainerId="W32Form" ModuleName="ufrmRepo.dfm"/>
+      <File FileName="AnReDo_DRC.rc" ContainerId="W32RC" ModuleName="AnReDo_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

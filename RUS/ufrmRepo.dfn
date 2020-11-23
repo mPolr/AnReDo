@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="F:\Projects\Delphi\Aptoide\ufrmRepo.dfm" source-language="en-US" target-language="ru-RU" datatype="delphiform" tool="ETM v10.0" ts="F:\Projects\Delphi\Aptoide\ufrmRepo.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40303.0922916667</prop>
+        <prop prop-type="OrigDateTime">40302.9021527778</prop>
+        <prop prop-type="XlatDateTime">40302.9021527778</prop>
+        <prop prop-type="Translated">53</prop>
+        <prop prop-type="UnTranslated">1</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmRepo.Left" resname="O:frmRepo.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">0</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Top" resname="O:frmRepo.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">1</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.BorderIcons" resname="O:frmRepo.BorderIcons">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">2</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.BorderStyle" resname="O:frmRepo.BorderStyle">
+        <source>bsToolWindow</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">3</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Caption" resname="O:frmRepo.Caption">
+        <source>'Manage repo'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">4</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Управление репозиториями'</target>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.ClientHeight" resname="O:frmRepo.ClientHeight">
+        <source>369</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">5</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.ClientWidth" resname="O:frmRepo.ClientWidth">
+        <source>498</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">6</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Color" resname="O:frmRepo.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">7</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Font.Charset" resname="O:frmRepo.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">8</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Font.Color" resname="O:frmRepo.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">9</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Font.Height" resname="O:frmRepo.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">10</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Font.Name" resname="O:frmRepo.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">11</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Font.Style" resname="O:frmRepo.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">12</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.OldCreateOrder" resname="O:frmRepo.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">13</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.Position" resname="O:frmRepo.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">14</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.OnCreate" resname="O:frmRepo.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">15</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.PixelsPerInch" resname="O:frmRepo.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">16</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.TextHeight" resname="O:frmRepo.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">17</prop>
+          <prop prop-type="Type">TfrmRepo</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.Left" resname="O:frmRepo.O:cmdAddURL.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">18</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.Top" resname="O:frmRepo.O:cmdAddURL.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">19</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.Width" resname="O:frmRepo.O:cmdAddURL.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">20</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.Height" resname="O:frmRepo.O:cmdAddURL.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">21</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.Caption" resname="O:frmRepo.O:cmdAddURL.Caption">
+        <source>'Add'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">22</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Добавить'</target>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.DoubleBuffered" resname="O:frmRepo.O:cmdAddURL.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">23</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.ParentDoubleBuffered" resname="O:frmRepo.O:cmdAddURL.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">24</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.TabOrder" resname="O:frmRepo.O:cmdAddURL.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">25</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdAddURL.OnClick" resname="O:frmRepo.O:cmdAddURL.OnClick">
+        <source>cmdAddURLClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">26</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.Left" resname="O:frmRepo.O:cmdDelURL.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">27</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.Top" resname="O:frmRepo.O:cmdDelURL.Top">
+        <source>39</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">28</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.Width" resname="O:frmRepo.O:cmdDelURL.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">29</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.Height" resname="O:frmRepo.O:cmdDelURL.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">30</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.Caption" resname="O:frmRepo.O:cmdDelURL.Caption">
+        <source>'Delete'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">31</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Удалить'</target>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.DoubleBuffered" resname="O:frmRepo.O:cmdDelURL.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">32</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.ParentDoubleBuffered" resname="O:frmRepo.O:cmdDelURL.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">33</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.TabOrder" resname="O:frmRepo.O:cmdDelURL.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">34</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdDelURL.OnClick" resname="O:frmRepo.O:cmdDelURL.OnClick">
+        <source>cmdDelURLClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">35</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:lstRepos.Left" resname="O:frmRepo.O:lstRepos.Left">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">36</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:lstRepos.Top" resname="O:frmRepo.O:lstRepos.Top">
+        <source>39</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">37</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:lstRepos.Width" resname="O:frmRepo.O:lstRepos.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">38</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:lstRepos.Height" resname="O:frmRepo.O:lstRepos.Height">
+        <source>282</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">39</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:lstRepos.ItemHeight" resname="O:frmRepo.O:lstRepos.ItemHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">40</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:lstRepos.TabOrder" resname="O:frmRepo.O:lstRepos.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">41</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:txtAddURL.Left" resname="O:frmRepo.O:txtAddURL.Left">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">42</prop>
+          <prop prop-type="Type">TEdit</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:txtAddURL.Top" resname="O:frmRepo.O:txtAddURL.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">43</prop>
+          <prop prop-type="Type">TEdit</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:txtAddURL.Width" resname="O:frmRepo.O:txtAddURL.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322454</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">44</prop>
+          <prop prop-type="Type">TEdit</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:txtAddURL.Height" resname="O:frmRepo.O:txtAddURL.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">45</prop>
+          <prop prop-type="Type">TEdit</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:txtAddURL.TabOrder" resname="O:frmRepo.O:txtAddURL.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">46</prop>
+          <prop prop-type="Type">TEdit</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.Left" resname="O:frmRepo.O:cmdSave.Left">
+        <source>415</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">47</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.Top" resname="O:frmRepo.O:cmdSave.Top">
+        <source>336</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">48</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.Width" resname="O:frmRepo.O:cmdSave.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">49</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.Height" resname="O:frmRepo.O:cmdSave.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">50</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.Caption" resname="O:frmRepo.O:cmdSave.Caption">
+        <source>'Save'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">51</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Сохранить'</target>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.TabOrder" resname="O:frmRepo.O:cmdSave.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">52</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmRepo.O:cmdSave.OnClick" resname="O:frmRepo.O:cmdSave.OnClick">
+        <source>cmdSaveClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848322569</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">53</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

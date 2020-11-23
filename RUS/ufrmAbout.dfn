@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="F:\Projects\Delphi\Aptoide\ufrmAbout.dfm" source-language="en-US" target-language="ru-RU" datatype="delphiform" tool="ETM v10.0" ts="F:\Projects\Delphi\Aptoide\ufrmAbout.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40303.1088425926</prop>
+        <prop prop-type="OrigDateTime">40303.0834953704</prop>
+        <prop prop-type="XlatDateTime">40303.0834953704</prop>
+        <prop prop-type="Translated">81</prop>
+        <prop prop-type="UnTranslated">3</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmAbout.Left" resname="O:frmAbout.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">0</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Top" resname="O:frmAbout.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">1</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.AlphaBlend" resname="O:frmAbout.AlphaBlend">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">2</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.AlphaBlendValue" resname="O:frmAbout.AlphaBlendValue">
+        <source>220</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">3</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.BorderIcons" resname="O:frmAbout.BorderIcons">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">4</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.BorderStyle" resname="O:frmAbout.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">5</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Caption" resname="O:frmAbout.Caption">
+        <source>'About'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">6</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'О программе'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.ClientHeight" resname="O:frmAbout.ClientHeight">
+        <source>218</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">7</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.ClientWidth" resname="O:frmAbout.ClientWidth">
+        <source>345</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">8</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Color" resname="O:frmAbout.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296759</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">9</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.DoubleBuffered" resname="O:frmAbout.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">10</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Font.Charset" resname="O:frmAbout.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">11</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Font.Color" resname="O:frmAbout.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">12</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Font.Height" resname="O:frmAbout.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">13</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Font.Name" resname="O:frmAbout.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">14</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Font.Style" resname="O:frmAbout.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">15</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.GlassFrame.Enabled" resname="O:frmAbout.GlassFrame.Enabled">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">16</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.GlassFrame.SheetOfGlass" resname="O:frmAbout.GlassFrame.SheetOfGlass">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">17</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.OldCreateOrder" resname="O:frmAbout.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">18</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.Position" resname="O:frmAbout.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">19</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.PixelsPerInch" resname="O:frmAbout.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">20</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.TextHeight" resname="O:frmAbout.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">21</prop>
+          <prop prop-type="Type">TfrmAbout</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Left" resname="O:frmAbout.O:Label1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">22</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Top" resname="O:frmAbout.O:Label1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">23</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Width" resname="O:frmAbout.O:Label1.Width">
+        <source>282</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">24</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Height" resname="O:frmAbout.O:Label1.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">25</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Caption" resname="O:frmAbout.O:Label1.Caption">
+        <source>'Android Repo Downloader v0.1.0.12'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">26</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Android Repo Downloader v0.1.0.15'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Font.Charset" resname="O:frmAbout.O:Label1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">27</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Font.Color" resname="O:frmAbout.O:Label1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296875</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">28</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Font.Height" resname="O:frmAbout.O:Label1.Font.Height">
+        <source>-15</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">29</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Font.Name" resname="O:frmAbout.O:Label1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">30</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.Font.Style" resname="O:frmAbout.O:Label1.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">31</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.GlowSize" resname="O:frmAbout.O:Label1.GlowSize">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">32</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label1.ParentFont" resname="O:frmAbout.O:Label1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">33</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.Left" resname="O:frmAbout.O:Label2.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">34</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.Top" resname="O:frmAbout.O:Label2.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">35</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.Width" resname="O:frmAbout.O:Label2.Width">
+        <source>321</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">36</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.Height" resname="O:frmAbout.O:Label2.Height">
+        <source>57</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">37</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.AutoSize" resname="O:frmAbout.O:Label2.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">38</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.Caption" resname="O:frmAbout.O:Label2.Caption">
+        <source>'Developed by mPolr.'#13#10'Freeware and AS IS'#13#10#13#10'Thanks to site 4pda.ru :)'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">39</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:Label2.GlowSize" resname="O:frmAbout.O:Label2.GlowSize">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">40</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Left" resname="O:frmAbout.O:lblIconAuthorURL.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">41</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Top" resname="O:frmAbout.O:lblIconAuthorURL.Top">
+        <source>197</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848296991</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">42</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Width" resname="O:frmAbout.O:lblIconAuthorURL.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">43</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Height" resname="O:frmAbout.O:lblIconAuthorURL.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">44</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Cursor" resname="O:frmAbout.O:lblIconAuthorURL.Cursor">
+        <source>crHandPoint</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">45</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Hint" resname="O:frmAbout.O:lblIconAuthorURL.Hint">
+        <source>'Visit http://benrulz.com/'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">46</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Посетить http://benrulz.com/'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Caption" resname="O:frmAbout.O:lblIconAuthorURL.Caption">
+        <source>'Main icon by Benrulz'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">47</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Иконка программы: Benrulz'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Font.Charset" resname="O:frmAbout.O:lblIconAuthorURL.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">48</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Font.Color" resname="O:frmAbout.O:lblIconAuthorURL.Font.Color">
+        <source>clHotLight</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">49</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Font.Height" resname="O:frmAbout.O:lblIconAuthorURL.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">50</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Font.Name" resname="O:frmAbout.O:lblIconAuthorURL.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">51</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.Font.Style" resname="O:frmAbout.O:lblIconAuthorURL.Font.Style">
+        <source>[fsUnderline]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">52</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.GlowSize" resname="O:frmAbout.O:lblIconAuthorURL.GlowSize">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">53</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.ParentFont" resname="O:frmAbout.O:lblIconAuthorURL.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">54</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.ParentShowHint" resname="O:frmAbout.O:lblIconAuthorURL.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">55</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.ShowHint" resname="O:frmAbout.O:lblIconAuthorURL.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">56</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblIconAuthorURL.OnClick" resname="O:frmAbout.O:lblIconAuthorURL.OnClick">
+        <source>lblIconAuthorURLClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">57</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Left" resname="O:frmAbout.O:lblAppTopicURL.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297106</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">58</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Top" resname="O:frmAbout.O:lblAppTopicURL.Top">
+        <source>182</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">59</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Width" resname="O:frmAbout.O:lblAppTopicURL.Width">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">60</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Height" resname="O:frmAbout.O:lblAppTopicURL.Height">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">61</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Cursor" resname="O:frmAbout.O:lblAppTopicURL.Cursor">
+        <source>crHandPoint</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">62</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Hint" resname="O:frmAbout.O:lblAppTopicURL.Hint">
+        <source>'Visit forum 4pda.ru'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">63</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Посетить форум 4pda.ru'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Caption" resname="O:frmAbout.O:lblAppTopicURL.Caption">
+        <source>'App topic in forum'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">64</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Топик на форуме'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Font.Charset" resname="O:frmAbout.O:lblAppTopicURL.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">65</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Font.Color" resname="O:frmAbout.O:lblAppTopicURL.Font.Color">
+        <source>clHotLight</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">66</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Font.Height" resname="O:frmAbout.O:lblAppTopicURL.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">67</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Font.Name" resname="O:frmAbout.O:lblAppTopicURL.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">68</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.Font.Style" resname="O:frmAbout.O:lblAppTopicURL.Font.Style">
+        <source>[fsUnderline]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">69</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.GlowSize" resname="O:frmAbout.O:lblAppTopicURL.GlowSize">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">70</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.ParentFont" resname="O:frmAbout.O:lblAppTopicURL.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">71</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.ParentShowHint" resname="O:frmAbout.O:lblAppTopicURL.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">72</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.ShowHint" resname="O:frmAbout.O:lblAppTopicURL.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">73</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:lblAppTopicURL.OnClick" resname="O:frmAbout.O:lblAppTopicURL.OnClick">
+        <source>lblAppTopicURLClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">74</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.Left" resname="O:frmAbout.O:cmdClose.Left">
+        <source>263</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">75</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.Top" resname="O:frmAbout.O:cmdClose.Top">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">76</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.Width" resname="O:frmAbout.O:cmdClose.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">77</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.Height" resname="O:frmAbout.O:cmdClose.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297222</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">78</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.Caption" resname="O:frmAbout.O:cmdClose.Caption">
+        <source>'Close'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297338</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">79</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Закрыть'</target>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.DoubleBuffered" resname="O:frmAbout.O:cmdClose.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">80</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.ParentDoubleBuffered" resname="O:frmAbout.O:cmdClose.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">81</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.TabOrder" resname="O:frmAbout.O:cmdClose.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">82</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmAbout.O:cmdClose.OnClick" resname="O:frmAbout.O:cmdClose.OnClick">
+        <source>cmdCloseClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40303.0848297338</prop>
+          <prop prop-type="Status">6</prop>
+          <prop prop-type="Order">83</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
